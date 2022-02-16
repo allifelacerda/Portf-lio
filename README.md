@@ -1,2 +1,2 @@
 # Állife L. Lacerda
-Portfolio presenting my projects in Data Analytics and Data Science.
+Portfolio presenting my projects and studies in Data Analytics and Data Science.
