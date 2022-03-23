@@ -8,3 +8,4 @@ Portfolio presenting my projects and studies in Data Analytics and Data Science.
 * [Agrupamento de Classes - Dataset iris](https://github.com/allifelacerda/Portfolio/blob/main/Iris%20Clustering.ipynb)
 * [Determinando melhor localização utilizando KMeans](https://colab.research.google.com/drive/1yxsQWNgiqMcDdVqhZB2W0WVOj8_fH1Ej?usp=sharing)
 * [Classificação de vinhos - Machine Learning - KNN](https://github.com/allifelacerda/Portfolio/blob/main/Wine%20Quality%20-%20Classification%20-%20KNN.ipynb)
+* [Machine Learning aplicado a um Ecommerce - REGRESSÃO LINEAR](https://github.com/allifelacerda/Portfolio/blob/main/Ecommerce%20Customers.ipynb)
